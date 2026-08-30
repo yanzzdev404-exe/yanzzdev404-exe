@@ -18,7 +18,7 @@
 
 A bit about me
 
-I'm Yanz, a student who enjoys exploring programming, cybersecurity, Linux, networking, and computer technology.
+I'm Yanz, a person who enjoys exploring programming, cybersecurity, Linux, networking, and computer technology.
 
 Most of my projects start with a simple question:
 

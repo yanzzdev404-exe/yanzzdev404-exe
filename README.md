@@ -78,7 +78,6 @@ There are plenty of smaller experiments, unfinished ideas, and random things I'v
 🧪 Currently learning
 
 name: Yanz
-
 role: Developer in progress
 
 learning:

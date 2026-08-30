@@ -1,58 +1,107 @@
-# 👋 Hi, I'm YanzX
+<div align="center">Y4nzzDev.exe
 
-A student who enjoys tinkering with code, cybersecurity, and anything technical.  
-I believe code is a tool, and exploration is the path.
+"Curious mind • Code • Cybersecurity • Technology"
 
 <p align="center">
   <img src="https://steamuserimages-a.akamaihd.net/ugc/2037357792052496408/1B451160B19C8415BCE5C344CA6E3A3B2376C85B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="520" alt="Akamiya Chizui banner"/>
 </p>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Exploring+code+and+technology;Learning+something+new+every+day;Building+things+just+because+I+can;Student+%7C+Developer+%7C+Tech+Enthusiast" alt="Typing SVG"/><br><a href="https://github.com/yanzzdev404-exe">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://t.me/iniyukii">
+  <img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>
+</a>
+<a href="https://instagram.com/y4nzzvvip">
+  <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a></div>---
 
-## 🧑‍💻 A bit about me
+A bit about me
 
-Most of my repositories begin with simple curiosity:  
-a tool I wish existed, a school project that turned out to be more interesting than expected, or a system I wanted to understand from the inside.
+I'm Yanz, a student who enjoys exploring programming, cybersecurity, Linux, networking, and computer technology.
 
-I mostly work with **Python** and **JavaScript**. I also write **Node.js**, **Bash**, and **PHP** when the project calls for them. Lately, that has meant automation tools, reverse engineering experiments, and Telegram/Discord bots.
+Most of my projects start with a simple question:
 
-When I'm away from code, I'm usually tinkering with **Termux**, tweaking my Linux setup, or poking around servers just for fun.
+«"What happens if I try this?"»
 
----
+Sometimes it becomes a project.
+Sometimes it breaks spectacularly.
+Either way, I learn something.
 
-## 🚀 What I'm working on
-
-- **[Discord Ripper](https://pastebin.com/L3y3tRJV)** — A Python tool to download images and videos from Discord CDN links.
-- **[AM Creator](https://pastebin.com/QShhzGxZ)** — A script to generate Alight Motion premium accounts using temp mail and magic links.
-
----
-
-## 🛠️ A few things I've built
-
-| Project | What it does |
-| :--- | :--- |
-| [Discord Ripper](https://pastebin.com/L3y3tRJV) | Download media from Discord CDN/attachment links. |
-| [AM Creator](https://pastebin.com/QShhzGxZ) | Generate Alight Motion premium accounts via magic links. |
+I'm currently focusing on improving my programming fundamentals while exploring different technologies and figuring out what I enjoy building the most.
 
 ---
 
-## Tools I use
+⚡ What I'm working on
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++"/>
-  <img src="https://img.shields.io/badge/Kotlin-111827?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Electron-111827?style=for-the-badge&logo=electron&logoColor=47848F" alt="Electron"/>
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Arduino-111827?style=for-the-badge&logo=arduino&logoColor=00979D" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Blender-111827?style=for-the-badge&logo=blender&logoColor=E87D0D" alt="Blender"/>
-</p>
+Area| Status
+🐍 Python| Learning & building
+🌐 JavaScript| Learning & experimenting
+🐧 Linux / Termux| Exploring
+🔐 Cybersecurity| Learning fundamentals
+🌐 Networking| Learning
+🤖 Bots & APIs| Building
 
 ---
 
-📫 **Find me on:**  
-[Telegram](https://t.me/iniyukii) · [Instagram](https://instagram.com/y4nzzvvip) · [WhatsApp](https://wa.me/6285819332570)
+🚀 A few things I've built
+
+Project| What it does| Stack
+🔧 Discord Ripper| Python utility for handling Discord CDN / attachment media links.| "Python"
+🤖 Bot Experiments| Experiments with Telegram, Discord, APIs and automation.| "Python" "JavaScript" "Node.js"
+⚙️ Automation Experiments| Small scripts created to automate repetitive tasks and explore APIs.| "Python" "Bash" "JavaScript"
+
+There are plenty of smaller experiments, unfinished ideas, and random things I've built while learning. That's basically how I learn best.
+
+---
+
+🛠️ Tools I use
+
+<div align="center">Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,php,kotlin,bash" />Development
+
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,git,github,vscode" />Platforms & Tools
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,androidstudio,arduino,figma,blender,vercel" /></div>---
+
+📊 GitHub
+
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=yanzzdev404-exe&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanzzdev404-exe&layout=compact&theme=github_dark&hide_border=true"/><br><br>
+
+<img src="https://streak-stats.demolab.com?user=yanzzdev404-exe&theme=github-dark-blue&hide_border=true"/></div>---
+
+📈 Activity
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=yanzzdev404-exe&theme=github-dark&hide_border=true&area=true"/></div>---
+
+🧪 Currently learning
+
+name: Yanz
+role: Student / Developer in progress
+
+learning:
+  - Python
+  - JavaScript
+  - Linux
+  - Networking
+  - Cybersecurity
+  - Git & GitHub
+
+interests:
+  - Automation
+  - System exploration
+  - Bots
+  - Web development
+  - Computer technology
+
+status:
+  learning: true
+  building: true
+  giving_up: false
+
+---
+
+<div align="center">"// There is always something new to break... and learn from."
+
+<br><img src="https://komarev.com/ghpvc/?username=yanzzdev404-exe&style=for-the-badge&color=111827&label=PROFILE+VIEWS"/></div>

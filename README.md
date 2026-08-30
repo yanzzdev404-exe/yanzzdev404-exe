@@ -27,8 +27,7 @@ When I'm away from code, I'm usually tinkering with **Termux**, tweaking my Linu
 
 | Project | What it does |
 | :--- | :--- |
-| [Discord Ripper](link) | Download media from Discord CDN/attachment links. |
-| [Nexus React Bot](link) | Auto-register accounts & send reactions to WhatsApp Channels. |
+| [Discord Ripper](https://pastebin.com/L3y3tRJV) | Download media from Discord CDN/attachment links. |
 | [AM Creator](https://pastebin.com/QShhzGxZ) | Generate Alight Motion premium accounts via magic links. |
 
 ---

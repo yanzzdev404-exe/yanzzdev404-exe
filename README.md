@@ -3,7 +3,7 @@
 "Curious mind • Code • Cybersecurity • Technology"
 
 <p align="center">
-  <img src="https://i.imgur.com/hJ1exV8.gif" width="520" alt="Demo animasi"/>
+  <img src="https://raw.githubusercontent.com/yanzzdev404-exe/yanzzdev404-exe/main/assets/dcb986fbdf6e07a9bbc556b7bfbe9275.gif" width="520" alt="Demo animasi"/>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Exploring+code+and+technology;Learning+something+new+everyday" />
